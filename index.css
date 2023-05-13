@@ -98,16 +98,14 @@ div>i{
     margin: 5px;
     box-shadow: 0px 10px 12px grey;
     background-color: whitesmoke;
+    transition: 0.5s;
 
 }
 
 .diff-btns>button:hover{
     background-color: rgba(58, 58, 219, 0.884);
     color: white;
-    padding: 30px;
-    transition: 0.4s;
-    box-shadow: 0px 15px 20px grey;
-
+    transform: scale(1.2);
 }
 
 
@@ -133,16 +131,15 @@ div>i{
     font-size: 20px;
     box-shadow: 0px 10px 12px grey;
     margin: 10px;
+    transition: 0.5s;
 
 }
 
 .goBtn:hover{
-    box-shadow: 0px 15px 20px grey;
     color: rgba(58, 58, 219, 0.884);
-    padding: 25px 70px;
     background-color: white;
-    transition: 0.4s;
-    font-size: 30px;
+    transform: scale(1.2);
+
 
 }
 
@@ -157,14 +154,13 @@ div>i{
     font-size: 20px;
     box-shadow: 0px 10px 12px grey;
     margin: 10px;
+    transition: 0.5s;
+
 }
 .reBtn:hover{
-    box-shadow: 0px 15px 20px grey;
     color: rgba(58, 58, 219, 0.884);
-    padding: 25px 70px;
     background-color: white;
-    transition: 0.4s;
-    font-size: 30px;
+    transform: scale(1.2);
 }
 
 .points{
